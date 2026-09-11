@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#ffffff"/>
+  <circle cx="400" cy="400" r="350" fill="#e4b950"/>
+  <defs>
+    <circle id="g1" cx="0" cy="0" r="4" fill="#4c8d72"/>
+    <circle id="g2" cx="0" cy="0" r="6" fill="#548f73"/>
+    <circle id="g3" cx="0" cy="0" r="8" fill="#46836b"/>
+    <circle id="g4" cx="0" cy="0" r="11" fill="#5b9678"/>
+    <circle id="r1" cx="0" cy="0" r="4" fill="#dc6a58"/>
+    <circle id="r2" cx="0" cy="0" r="6" fill="#d66155"/>
+    <circle id="r3" cx="0" cy="0" r="8" fill="#e1735d"/>
+    <circle id="r4" cx="0" cy="0" r="10" fill="#c95850"/>
+    <pattern id="numberDots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="5" r="4" fill="#4a896f"/>
+      <circle cx="14" cy="15" r="6" fill="#548f73"/>
+      <circle cx="20" cy="3" r="3" fill="#46836b"/>
+    </pattern>
+  </defs>
+  <g>
+    <use href="#g4" x="155" y="150"/><use href="#g2" x="198" y="177"/><use href="#g1" x="244" y="132"/><use href="#g3" x="286" y="182"/><use href="#g2" x="331" y="147"/><use href="#g4" x="378" y="185"/><use href="#g1" x="425" y="142"/><use href="#g3" x="469" y="174"/><use href="#g2" x="515" y="137"/><use href="#g4" x="561" y="184"/><use href="#g1" x="608" y="155"/><use href="#g3" x="651" y="203"/>
+    <use href="#g2" x="128" y="207"/><use href="#g1" x="177" y="230"/><use href="#g3" x="224" y="215"/><use href="#g4" x="274" y="242"/><use href="#g2" x="320" y="218"/><use href="#g1" x="368" y="244"/><use href="#g3" x="414" y="215"/><use href="#g2" x="458" y="250"/><use href="#g4" x="510" y="218"/><use href="#g1" x="555" y="246"/><use href="#g3" x="603" y="224"/><use href="#g2" x="672" y="258"/>
+    <use href="#g4" x="151" y="286"/><use href="#g1" x="198" y="278"/><use href="#g2" x="246" y="302"/><use href="#g3" x="298" y="276"/><use href="#g1" x="347" y="310"/><use href="#g4" x="399" y="278"/><use href="#g2" x="447" y="304"/><use href="#g3" x="495" y="276"/><use href="#g1" x="543" y="310"/><use href="#g4" x="594" y="282"/><use href="#g2" x="645" y="306"/>
+    <use href="#g2" x="128" y="354"/><use href="#g3" x="178" y="337"/><use href="#g1" x="228" y="365"/><use href="#g4" x="280" y="345"/><use href="#g2" x="332" y="372"/><use href="#g1" x="382" y="340"/><use href="#g3" x="431" y="368"/><use href="#g2" x="478" y="345"/><use href="#g4" x="527" y="374"/><use href="#g1" x="579" y="344"/><use href="#g3" x="630" y="365"/><use href="#g2" x="678" y="350"/>
+    <use href="#g4" x="150" y="420"/><use href="#g1" x="202" y="402"/><use href="#g3" x="252" y="433"/><use href="#g2" x="300" y="410"/><use href="#g4" x="351" y="438"/><use href="#g1" x="452" y="424"/><use href="#g3" x="503" y="440"/><use href="#g2" x="551" y="409"/><use href="#g4" x="604" y="435"/><use href="#g1" x="654" y="414"/>
+    <use href="#g2" x="126" y="480"/><use href="#g3" x="175" y="505"/><use href="#g1" x="224" y="477"/><use href="#g4" x="278" y="520"/><use href="#g2" x="331" y="489"/><use href="#g3" x="382" y="518"/><use href="#g1" x="431" y="485"/><use href="#g4" x="479" y="515"/><use href="#g2" x="530" y="480"/><use href="#g3" x="580" y="510"/><use href="#g1" x="630" y="484"/><use href="#g4" x="677" y="515"/>
+    <use href="#g4" x="153" y="570"/><use href="#g1" x="205" y="548"/><use href="#g2" x="255" y="585"/><use href="#g3" x="305" y="555"/><use href="#g1" x="355" y="590"/><use href="#g4" x="405" y="552"/><use href="#g2" x="455" y="585"/><use href="#g3" x="505" y="550"/><use href="#g1" x="555" y="588"/><use href="#g4" x="607" y="557"/><use href="#g2" x="655" y="580"/>
+    <use href="#g2" x="173" y="640"/><use href="#g3" x="225" y="620"/><use href="#g1" x="275" y="655"/><use href="#g4" x="328" y="628"/><use href="#g2" x="379" y="666"/><use href="#g1" x="430" y="630"/><use href="#g3" x="479" y="660"/><use href="#g2" x="530" y="625"/><use href="#g4" x="580" y="655"/><use href="#g1" x="630" y="625"/>
+  </g>
+  <g>
+    <use href="#r3" x="181" y="190"/><use href="#r1" x="232" y="165"/><use href="#r2" x="319" y="205"/><use href="#r4" x="454" y="193"/><use href="#r2" x="536" y="170"/><use href="#r1" x="627" y="244"/>
+    <use href="#r2" x="161" y="265"/><use href="#r4" x="215" y="315"/><use href="#r1" x="274" y="270"/><use href="#r3" x="338" y="290"/><use href="#r2" x="478" y="282"/><use href="#r4" x="550" y="286"/><use href="#r1" x="622" y="325"/>
+    <use href="#r3" x="145" y="390"/><use href="#r2" x="218" y="374"/><use href="#r4" x="286" y="392"/><use href="#r1" x="519" y="390"/><use href="#r3" x="585" y="375"/><use href="#r2" x="651" y="405"/>
+    <use href="#r1" x="160" y="455"/><use href="#r3" x="240" y="470"/><use href="#r2" x="305" y="450"/><use href="#r4" x="495" y="463"/><use href="#r1" x="570" y="470"/><use href="#r3" x="644" y="460"/>
+    <use href="#r2" x="190" y="545"/><use href="#r4" x="260" y="520"/><use href="#r1" x="325" y="548"/><use href="#r3" x="478" y="535"/><use href="#r2" x="550" y="552"/><use href="#r4" x="620" y="530"/>
+    <use href="#r3" x="220" y="610"/><use href="#r1" x="295" y="600"/><use href="#r2" x="355" y="635"/><use href="#r4" x="445" y="615"/><use href="#r1" x="515" y="625"/><use href="#r3" x="590" y="605"/>
+  </g>
+  <text x="400" y="472" fill="url(#numberDots)" font-family="Arial,sans-serif" font-size="260" font-weight="700" text-anchor="middle">12</text>
+</svg>
